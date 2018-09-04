@@ -1,4 +1,4 @@
-gg.alert("HELLOUT ADITYA ADD ME ON TELEGRAM @ADYAZ")
+gg.alert("7WorldMods TELEGRAM @ADYAZ")
 
 function Main()
 menu1 = gg.choice({ 
@@ -8,7 +8,7 @@ menu1 = gg.choice({
 'One Click Landed',
 'ONE CLICK LOBBY',
 'exit'},
-nil,'HELLOUT SCRIPT BY ADITYA ADD ME ON TELEGRAM @ADYAZ')
+nil,'7WorldMods TELEGRAM @ADYAZ')
 if menu1 == 1 then A() end
 if menu1 == 2 then B() end
 if menu1 == 3 then C() end
@@ -50,7 +50,7 @@ menu2 = gg.choice({
 'AIMLOCK',
 'HIGH DAMAGE',
 '(BACK)'},
-nil,'ADD ME ON @ADYAZ TELEGRAM')
+nil,'7WorldMods ADD ME ON @ADYAZ TELEGRAM')
 if menu2 == 1 then PNCBL() end
 if menu2 == 2 then NCMB() end
 if menu2 == 3 then FTLA() end
@@ -189,7 +189,7 @@ menu3 = gg.choice({
 
     '(BACK)'},
 
-nil,'----->ADD ME ON TELEGRAM @ADYAZ<-----')
+nil,'-----> 7WorldMods ADD ME ON TELEGRAM @ADYAZ  <-----')
 if menu3 == 1 then HEADFOOTANT() end
 if menu3 == 2 then STDANT() end
 if menu3 == 3 then HEADANT() end
@@ -572,7 +572,7 @@ end
 
 function exit()
 gg.toast("Thanks you")
-print('HELLOUT SCRIPT ADD ME ON TELEGRAM @ADYAZ')
+print('7WorldsMods TELEGRAM @ADYAZ')
 os.exit()
 end
 
